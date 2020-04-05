@@ -1,1 +1,1 @@
-# data-analysis and predict using sklearn
+# data-analysis course projects
